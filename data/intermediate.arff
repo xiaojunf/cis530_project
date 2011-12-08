@@ -1,0 +1,15 @@
+@relation intermediate
+
+@attribute picture {yes}
+@attribute life {yes}
+@attribute battery {yes}
+@attribute lens {yes}
+@attribute cameral {yes}
+@attribute pixel {yes}
+@attribute size {yes}
+
+@data
+yes,?,?,?,yes,yes,?
+?,?,?,yes,yes,?,?
+?,yes,yes,?,yes,?,yes
+?,yes,yes,?,?,?,?

@@ -1,0 +1,16 @@
+@RELATION test
+
+@ATTRIBUTE camera {yes,no}
+@ATTRIBUTE picture {yes,no}
+@ATTRIBUTE size {yes,no}
+@ATTRIBUTE color {yes,no}
+@ATTRIBUTE pixel {yes,no}
+@ATTRIBUTE memory {yes,no}
+@ATTRIBUTE lens {yes,no}
+
+@DATA
+yes,yes,yes,?,?,?,?
+yes,yes,?,?,?,yes,?
+?,?,yes,?,?,yes,?
+?,yes,?,?,yes,?,?
+yes,yes,yes,?,?,yes,?
