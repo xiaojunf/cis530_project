@@ -6,10 +6,9 @@ word_sent_dict = nltk.defaultdict(set)
 
 def preprocess_file(input_file,output_file):
     cin = open(input_file)
-    itemsets = [line.split() for line in cin.readlines()]
+    itemsets = [filter(lambda w:w.isalpha(),line.split())
+                for line in cin.readlines() if len(line.split())>0]
     cin.close()
-
-
 #    global word_sent_dict
 #    word_sent_dict = nltk.defaultdict(set)
     def add2dict((idx,words)):
@@ -17,6 +16,8 @@ def preprocess_file(input_file,output_file):
     map(add2dict,enumerate(itemsets))
 
     word_set = list(set(reduce(lambda x,y:x+y,itemsets)))
+
+    print len(word_set)
 #    global word_dict
     word_dict = dict([(w,i) for i,w in enumerate(word_set)])
     item_map = [[word_dict[w] for w in line] for line in itemsets]
@@ -26,6 +27,7 @@ def preprocess_file(input_file,output_file):
     csvWriter.writerow(word_set)
     for item in item_map:
         line = ['?']*len(word_set)
+
         def trans_mark(i):
             line[i]='yes'
         map(trans_mark,item)
@@ -121,7 +123,7 @@ def get_frequent_features(input_file,output_file): #TODO compactness pruning
     cout.close()
 
 if __name__=='__main__':
-    input_file = './../data/data'
+    input_file = './../data/Diaper_Champ_Phrases_noStopWords.txt'
     output_file = './../data/result'
 #    preprocess_file(input_file,output_file)
     get_frequent_features(input_file,output_file)
