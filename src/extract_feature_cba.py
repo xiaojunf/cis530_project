@@ -43,7 +43,7 @@ def startJvm():
                    "-ea",
                   "-Djava.class.path=%s/weka.jar" %lib_home)
 
-startJvm() # one jvm per python instance.
+#startJvm() # one jvm per python instance.
 
 def get_instances(csv_file):
     global package_core
@@ -68,6 +68,10 @@ def apriori(instances):
         return ' '.join(re.findall(r'(\w+)=',s))
 
     return [map(string2words, itemset) for itemset in itemsets_vector]
+
+def compactness_pruning(itemsets,):
+    pass
+
 
 def redundant_pruning(itemsets):
     cur_itemsets = list(itemsets)
@@ -112,7 +116,7 @@ def get_frequent_features(input_file,output_file): #TODO compactness pruning
     preprocess_file(input_file,csv_file)
     instances = get_instances(csv_file)
     itemsets = apriori(instances)
-    jpype.shutdownJVM()
+#    jpype.shutdownJVM()
     itemset_one = redundant_pruning(itemsets)
     import simplejson as json
     content = json.dumps({'itemset_1':itemset_one,
@@ -123,10 +127,16 @@ def get_frequent_features(input_file,output_file): #TODO compactness pruning
     cout.close()
 
 if __name__=='__main__':
-    input_file = './../data/Diaper_Champ_Phrases_noStopWords.txt'
-    output_file = './../data/result'
-#    preprocess_file(input_file,output_file)
-    get_frequent_features(input_file,output_file)
-    
+    startJvm()
+    input_files = ['./../data/Apex_AD2600_Progressive-scan_DVD_player_NOUNS.txt',
+                   './../data/Diaper_Champ_NOUNS.txt',
+                   './../data/ipod_NOUNS.txt',
+                   './../data/Linksys_Router_NOUNS.txt',
+                   './../data/Nokia_6610_NOUNS.txt']
+
+    for input_file in input_files:
+        output_file = input_file.split('.txt')[0]+'.result'
+        get_frequent_features(input_file,output_file)
+    jpype.shutdownJVM()
     pass
 
