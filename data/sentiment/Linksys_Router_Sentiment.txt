@@ -1,0 +1,146 @@
+('quick', 4, 0)	('sure', 19, 1)	
+
+('easiest', 2, 'X')	
+('poor', 14, -1)	
+('good', 3, 1)	('100-page', 12, 'X')	('manual', 14, 0)	
+
+('whole', 11, -1)	('latest', 23, 0)	
+('actual', 6, 1)	('more', 16, 0)	('reconsider', 24, 'X')	('easy', 34, 1)	
+('better', 6, 0)	('different', 16, 0)	
+('great', 5, 1)	
+
+('sure', 2, 1)	('invite', 12, 'X')	('computer-savvy', 14, 'X')	('first', 17, 0)	('high', 22, 1)	
+('available', 7, 0)	('best', 9, 1)	('other', 13, -1)	('major', 14, 1)	
+('quick', 14, 0)	
+
+('easy', 8, 1)	('first', 19, 0)	
+
+('specific', 5, 0)	('close', 32, -1)	
+('site', 7, 'X')	
+('latest', 2, 0)	('specific', 8, 0)	
+
+('extra', 6, 0)	('worth', 9, 1)	
+('only', 1, 0)	('other', 2, -1)	
+('obvious', 3, 1)	
+('previous', 7, -1)	
+
+('big', 3, 1)	
+('able', 4, 1)	('cable', 24, 'X')	
+
+
+('bad', 6, -1)	
+('little', 2, -1)	
+('neat', 2, 1)	('third', 9, 0)	('powerful', 14, 1)	('add', 16, 'X')	('many', 17, 0)	('new', 31, 1)	('most', 41, 0)	('likely', 42, -1)	
+('small', 7, -1)	
+
+
+
+
+('easy', 15, 1)	
+
+('negative', 16, -1)	
+('fourth', 3, 0)	('rough', 10, 1)	
+('same', 3, 0)	
+('bandwidth', 12, 'X')	('constant', 15, 1)	
+('short', 17, -1)	
+
+
+('ive', 0, 'X')	
+
+('better', 5, 0)	('lower', 13, 'X')	
+('cable', 8, 'X')	
+('next', 1, -1)	('sveasoft', 8, 'X')	
+('minimal', 9, 0)	('less', 16, -1)	
+('biggest', 2, 'X')	('constant', 6, 1)	('weak', 11, -1)	
+('positive', 11, 0)	('good', 13, 1)	('wired', 17, 0)	
+
+('easier', 11, 'X')	('manual', 21, 0)	
+('happy', 11, 1)	('extra', 16, 0)	
+('significant', 3, 0)	('youll', 5, 'X')	('happy', 8, 1)	
+
+
+('other', 2, -1)	
+('old', 9, 0)	('several', 18, -1)	
+('willing', 6, 1)	('more', 9, 0)	('tech', 14, 'X')	('light', 18, 0)	('other', 23, -1)	
+('easy', 1, 1)	('good', 14, 1)	('important', 20, 1)	
+
+('old', 1, 0)	
+('happy', 4, 1)	('solid', 7, 1)	('such', 12, -1)	('short', 14, -1)	('other', 29, -1)	
+('other', 1, -1)	('responsive', 10, 0)	('knowledgeable', 20, 1)	
+('professional', 4, 1)	
+('overall', 0, 0)	
+('good', 20, 1)	
+
+('outstanding', 7, 1)	
+
+
+('perfect', 4, 1)	('first', 6, 0)	('web-based', 15, 'X')	
+('advanced', 7, 1)	('difficult', 16, -1)	('basic', 21, 1)	
+
+('cant', 12, 'X')	
+('easy', 7, 1)	('limited', 11, -1)	('many', 22, 0)	('wanted', 30, 1)	
+('old', 4, 0)	
+('best', 6, 1)	('great', 26, 1)	
+('good', 7, 1)	('other', 20, -1)	('great', 23, 1)	
+('concentrate', 3, 'X')	('teady', 16, 'X')	('more', 27, 0)	
+('early', 3, -1)	('few', 11, 0)	
+('satellite', 22, 0)	
+('only', 1, 0)	
+('last', 9, -1)	('happy', 15, 1)	
+('few', 3, 0)	
+
+('other', 11, -1)	
+
+('same', 12, 0)	
+('mean', 2, 1)	('different', 7, 0)	
+('good', 3, 1)	
+('other', 18, -1)	
+
+('many', 3, 0)	('typical', 4, 1)	
+('net', 6, 0)	('most', 23, 0)	('typical', 26, 1)	
+('particular', 8, 1)	
+('original', 6, -1)	('big', 7, 1)	
+('first', 11, 0)	
+('good', 6, 1)	
+('four-port', 2, 'X')	
+('youll', 3, 'X')	('more', 20, 0)	('multiple', 22, 0)	('single-connect', 23, 'X')	
+('low', 7, -1)	('most', 10, 0)	('added', 16, 'X')	('little', 20, -1)	('other', 35, -1)	
+('many', 7, 0)	('several', 33, -1)	
+
+('best', 39, 1)	
+
+
+
+('panasonic', 4, 'X')	
+('great', 6, 1)	('same', 12, 0)	('good', 25, 1)	
+
+
+
+('later', 16, 0)	
+('best', 17, 1)	
+('few', 5, 0)	('precious', 8, 1)	('online', 14, 0)	('important', 17, 1)	
+('few', 4, 0)	
+
+('compatible', 6, 1)	
+
+('great', 3, 1)	
+('open-source', 3, 0)	('net', 7, 0)	('extra', 12, 0)	
+('good', 7, 1)	
+
+
+('few', 7, 0)	('e-mailing', 10, 'X')	
+('several', 8, -1)	
+('easy', 17, 1)	('able', 21, 1)	
+('first', 0, 0)	('regular', 17, 1)	('other', 34, -1)	
+('first', 6, 0)	
+('large', 36, 1)	('standard', 69, 1)	
+('best', 0, 1)	('long', 6, 0)	
+('able', 2, 1)	
+('administrative', 2, 1)	
+('bottom-line', 21, 'X')	('speedboost', 34, 'X')	
+('high', 4, 1)	('low', 7, -1)	('available', 12, 0)	('id', 19, 'X')	('give', 21, 'X')	('unattainable', 26, -1)	
+('important', 0, 1)	('original', 44, -1)	
+
+
+('multi-100', 7, 'X')	('such', 12, -1)	('back-up', 14, 'X')	
+('worthless', 10, 1)	

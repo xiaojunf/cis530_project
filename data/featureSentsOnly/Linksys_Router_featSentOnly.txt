@@ -1,0 +1,146 @@
+It was a very quick setup and installation in fact the disc that it comes with pretty much makes sure you cant mess it up 
+apart on their reviews they are talking about installation problems and what not 
+Its the easiest thing to setup i thought and i am only 16So with all that said BUY THE ROUTER     
+Its probably a fine router but I found the install wizard to be of poor quality  
+If you have good networking knowledge youll abandon the wizard use the 100-page online manual and be fine   
+If youre buying this product and operate on a Mac platform ditch the CD and go directly to live assistance on the Linksys website     
+I run on Mac OSX and though I considered getting the whole Apple airport setup the cost difference between the Airport and the latest model Linksys pretty much left no comparison 
+HOWEVER configuration of my system and actual setup of the router for wireless use took me more than 3 hours and briefly made me reconsider my choice to forego the airport and its notoriously easy setup 
+What this product really needs is better documentation for how to set up the router for DIFFERENT OPERATING SYSTEMS
+But the product iself is great  
+If you have a Mac I dont think you should totally discount this product 
+Just make sure to budget a couple of hours for setup and invite some computer-savvy friends over first if youre prone to high blood pressure      
+For an item that is not even available in Best Buy and the other major stores when I went to buy it the fact that  has these in and out of stock and that I received it in only a couple of days is knowledge enough to make this a winning situation  
+Having never hooked up a wireless network before I took the advice of the quick start guide that came with the unit and used their included CD 
+Having seen the problems that some others were having with setup only to be resolved (some of them) by exactly following the directions I decided to do it that way right out of the box 
+This setup using the CD was about as easy as learning how to open a refrigerator door for the first time 
+Shutting off what they t
+I know I am getting specific but the point I am making is that it does not matter what the connection speed you are running at any given moment based on how close the base unit is to the PC card 
+As soon as you click on a site it appears on the screen  
+Ironically the latest firmware update addresses this very specific issue so now I have no problems what so ever 
+All you have to do is click one button on the router configuration window and the router automatically senses the devices and configures the network 
+But I believe for stability this extra price is worth spending 
+The only other problem was that security for the wireless connection  
+There was no obvious screen stating what should be done - the program simply said the router was secured  
+But knowing that the IP for my previous Linksys router was 19216211 I went there and found a drop down screen that had the information (the security key) I needed to connect my wireless laptop  
+The router works fine for both wired and wireless  
+Here is the big news to everyone this is a consumer level product 
+You will not be able to run 100s users using WPA and WPA2 encryption through this thing just a handful of people on a cable modem or DSL line 
+People that complain about this product not standing up to hardcore use are fooling themselves 
+They need to step up and buy an enterprise level piece of hardware for a lot more money 
+That aside this is not that bad of a product 
+With a little knowledge and tweaking you can get this product to run encrypted wireless connections to about 10 people with little or no problem 
+The really neat thing about this is that the third party firmware are very powerful and add many more features to the WRT54G that are not there but should be The new hardware version does not run Linux at all and most likely will not since the memory has been cut in half 
+Simply put the hardware is just too small to run Linux which is a really bummer since I found it fun to play with my Linksys WRT54Gs firmware  
+Do not use this thing without Wireless Encryption 
+All wireless routers need to be configured to use Wireless Encryption so this is just not a problem with the WRT54G  
+If you are a tech person and want to really play with your WRT54G sorry but you need to get the WRT54GS router 
+No hold time  
+Yes the 1-800 number probably redirected me to someone in India but the guy was easy to understand and he helped solve the problem 
+ite  wwwlinksyscom/connect  I clicked on NetSet Assistant and let it do its thing  
+Itll make life a lot easier and preclude you from having to give this product a negative review  
+This is my fourth Linksys product and aside from the rough start Im very satisfied with this router     
+For about the same price as 11mb you can get 5 times the speed 
+I got it to work with no problem but then I experienced bandwidth loss and constant connectivity issues  
+I finally figured out that the modem could not support the wireless router and it had a short plus RCA no longer carried it and the thing was ugly taking up space  
+It took me about an hour to set up a wireless environment in her townhouse and she hasnt called me yet with any problems 
+A very well made product that has worked very well for me over the years 
+ive had their wireless card for my laptop since 2000 and it has rarely given me problems     
+However this product performed well below my expectation  
+The reader can find a better product with the competition and at a lower cost     
+So far it all works fine with either cable or wireless connections  
+My next project will be to try out sveasoft firmware to increase this unit capabilities and wireless range     
+The cheap router I used to own had very minimal feature in the configurations menu and less security options then the Linksys WRT54G 
+But the biggest problem was the constant drop in connections and weak signals from time to time 
+I was fed up and turned to WRT54G because of its positive reviews good past experience with wired routers and frequent firmware updates to correct any bugs   router[+2] You wont regret it 
+Just follow the instructions carefully its all based on a CD that has everything you need to get you up and running in no time 
+The WRT54G offers excellent security features and much more (and easier) configuration menu that I didnt even need a manual to setup correctly  
+Even though you could get a cheap router these days Im happy I spent a little extra for the Linksys 
+The quality is significant and youll be very happy from saving time and the headache      
+A couple of times a week it seems to cease access to the internet 
+You have to unplug the unit to get it to work again  
+See my other reviews for the details  
+I bought this in order to upgrade from an old 80211b router to g technology and I spent several hours trying to get it to work 
+Im returning this as Im not willing to waste more time trying to contact tech support particularly in light of the comments of other reviewers who have done so 
+Its easy to install the security on this product but Linksys doesnt do a good job of explaining why its important  
+Knocked 1 star off for the install wizard - it wasted alot of time running it     
+My old Linksys router recently died after 25 years of service 
+While I am not happy that a solid state device died after such a short period of time my quick review of this product space did not yield any other brands that seem much better than Linksys  
+Unlike other reviewers I have found the support to be responsive almost no wait time on the phone and relatively knowledgeable 
+Granted I am a professional technologist with years of experience  
+Overall this router seems like a reasonably priced product th
+at works as well as can be expected for products in this space and the company backs it up with good support     
+However your PC cards should also be Linksys g rated as interoperability has been a problem on some b cards 
+Linksys quality and tech support have been outstanding     
+This router seems to have gotten mixed reviews for ease of installation and its compatability with 11b cards 
+I upgraded both my card and router and really had no problems with installation on my Sony VAIO laptop (XP operating system)  
+The setup wasnt quite perfect the first time -- I needed to go through a web-based interface to set up the router (to give  it info on my DSL provider account) though the documentation for this was staightforward  
+I havent tried to set up any advanced features on the router but it is not difficult to set up for basic use  
+I have had no problem either with backward compatiaibility in that the mixed mode feature lets you both 54 and 11 Mb cards off the router     
+I have been using my router for some months now I still cant wirelessly access the internet through my laptop but thats a laptop problem 
+I like the fact that it IS EASY to use with limited networking experience- the problem I have is that there are many useless features on the unit and some wanted features like a list of computers accessing my wireless is not easily found on my router   
+I just replaced my old Linksys router with this one turned everything on in the right order and it was up and running with no problems  
+This product is by far the best Broadband Router on the market I bought this to replace one of those Linksys Instant Wireless B routers worked great for about a year 
+In my opinion a year is a good service time for a device I dont expect this router or any other to work great for more than a year 
+My opion is concentrate on what you need now This product has EXELENT range holds a teady connection hasent even droped one and i have it for more than a month now 
+I was an early purchaser of the WRT54G and had a few problems with stability and speed - finally the March 03 firmware update has resulted in an excellent product
+It took me three days to the tune of Neil Youngs song Piece Of Cr-- to get this to work with the satellite hookup I was hired to connect this wireless network up to  
+The only way I got the thing working (this was with a DirecWay satellite)
+I just upgraded to the Linksys WRT54G Wireless-G router last month and I am very happy with the quality of the product  
+Bought this a few months ago with the Laptop card 
+I was having intermittent problems with it losing connection 
+Havent had any of the issues Ive been reading in the other reviews 
+Before I had to manually put my IP settings into my laptop every time I switched networks
+They also lowered flash memory from 4 to 2 MB at the same time 
+In the mean time Ill buy a different ro
+This is a good product but the Linksys 54g desktop card is not  
+They then send in Trojans Worms (programs that extract and run themselves in your computer) plus other nasties to steal information or take control  
+Youll have to reinstall everything you put on from the day you first turned it on  
+Here is where many typical problems begin  
+You have to look to the Net tech service help lines and FAQ sites on your router to find out how to solve most of the typical problems  
+Ok so what can we say about this particular network product  
+Well Linksys was one of the original big players in the router industry  
+Linksys is made by Cisco the networking giant who introduced the first routers for the Internet and became a company that rivals Microsoft in size  
+This model appears to be especially good  
+Why the four-port wireless model you ask 
+If that happens youll want to save money by sharing the Internet connection rather than pay for two services or more at multiple single-connect prices
+Moreover the price of these is very low compared to most computer add-ons so getting the added functionality is at little and sometimes no cost  Well if your network has or will have computers in other rooms you may not want to wire your house for Ethernet 
+Another thing you may do are the many file transfers needed to playing network games  Some settings allow you to play but not host a game others wont even let It may take several attempts and reading a lot of FAQs or network help sites to fix some of these issues 
+They provide you with their network security as a part of the service but for a price  
+Often they restrict you from sites you want to visit and you can still be reached by clever hackers who con you into opening or using their files or programs  The purchase of a router is one of the best things you can do to protect yourself these days      
+The darn thing works as promised and its amazingly cheap too 
+I purchased the WRT54G about a week ago 
+In a week of use ive never had to reboot the router 
+There is also a Panasonic cordless phone (24 Ghz) between the wap and the ethernet bridge but it never causes a problem 
+A decent peice of hardware with great speed (I get the same speeds as with my comp connected directly to the modem)  and good signal quality 
+I had a lot of problems setting it up since the software given along with it is buggy 
+After installing the firmware hold the reset button at the back for 30 secs  
+The instant setup button in the front of the router messes up the network it is better to configure the router manually 
+The UPnP and NAT traversal features have some kinks that will be hopefully fixed in the later versions of the firmware 
+Both of them keep disconnecting on me and interruptions are 3 or 4 times per day at best 
+Both routes take me a few minutes of precious time when i would be online doing something important  
+Purchased this router a few months back NO PROBLEMS whatsoever  
+Got the Linksys after reading some reviews 
+However since this Router is backward compatible that doesnt pose a problem at all  
+This is universal across every brand Ive worked with 
+No down time great signal strength  
+There is an open-source firmware on the net which has tons of extra features  
+So the pretty solid router all around good for the money  heres the link to firmware updates http//wwwsveasoftcom/forum6html      
+Absolutely no problems with this router 
+Speed is not a problem      
+After upgrading the drivers and firmware a few times and e-mailing tech support for some setting tips it now works fine 
+As far as Linksys goes I have used several of their products and they seem to hold up well - no problems     
+Getting the router setup in a vanilla configuration that works for 99% of users was very easy and I was able to do this no problem
+First let me set the stage by saying that I am not a network specialist just a regular Joe who for convenience reasons wants a wireless network in his house However I realized the other day that I hadnt even secured it (yes stupid me) 
+When you open the package the first thing you see is Run CD first 
+Anyway after learning that the Speedboost feature only does anything for you if (1) you are also using a Speedboost adapter (which I was) and (2) if you are transferring large data files between computers (Note it does NOT increase your speed on the Internet but only between computers on the network) I opted to return the product and get the standard Wireless G (v5) 
+Best decision Ive made in a long time 
+I was able to use t
+he brower-based administrative screen with no problems 
+I still need to read up on some of the security settings etc to fully understand all thats up there but bottom-line is that the installation was like night and day compared to the Speedboost router 
+When I saw a high gain (low price) antenna was available to the WRT54G router I thought Id happily give up some (practically unattainable anyway since youve got to be in spitting distance from the router) speed in favour of wider coverage 
+Important to note that what I really needed was an access point as my DSL modem already does the router thing and I have a wired 100M network round the house   setup[-1] Firstly I mounted the 7dbi antenna pair replacing the original ones 
+) as opposed to gateway disabled DHCP and gave the router an IP number within the range served by the DHCP service from the modem   
+All this took a couple of hours fidling as I did not go to Linksys website for support - so I wouldnt know if there is help there  
+If it is needed to make a multi-100 MB disk tranfer (such as back-up copies) it makes sense to connect through the wired network  
+We bought this about 6 months ago and its been worthless  
