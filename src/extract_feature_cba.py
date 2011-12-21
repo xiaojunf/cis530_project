@@ -10,6 +10,8 @@ word_sent_dict = nltk.defaultdict(set) #every word apear to several sentenese, k
 feature_sent_list = []
 def preprocess_file(input_file,output_file):
     cin = open(input_file)
+    word_sent_dict.clear()
+    del feature_sent_list[:]
     feature_sent_list.extend(filter(lambda x:len(x)>0,
                                json.loads(cin.read())))
     cin.close()
@@ -106,7 +108,7 @@ def compactness_pruning(itemsets):
                                   for y in sent[nouns[1]]
                                   for z in sent[nouns[2]]]
 #                print pos_comb
-                pos_comb = filter(lambda x:x[1]-x[0]<2 and x[2]-x[1]<2, pos_comb)
+                pos_comb = filter(lambda x:x[1]-x[0]<3 and x[2]-x[1]<3, pos_comb)
             if len(pos_comb)>0:
                 phrase = ' '.join(map(lambda x:words_order[x],pos_comb[0]))
                 return phrase
